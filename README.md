@@ -1,16 +1,22 @@
-### Hi there 👋
+![Header](./header.png)
 
-<!--
-**Qoft/qoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">qoft#0420</h1>
+<p align="center">uhhh im starting to learn c++ but i know python and c#</p>
+<a href="https://github.com/Qoft">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Qoft" alt="Profile Views">
+  </p>
+</a>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=Qoft7269&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="GET FROM https://discord.c99.nl" />
+  <br />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=Qoft&theme=nord&margin-w=15&margin-h=1&column=6" />
+</p>
+
+![Footer](./footer.png)
