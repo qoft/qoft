@@ -1,6 +1,6 @@
 ![Header](./header.png)
 
-<h1 align="center">not qoft#3333</h1>
+<h1 align="center">qoft#3333</h1>
 <p align="center">uhhh im starting to learn js but i know python and c#</p>
 <a href="https://github.com/Qoft">
   <p align="center">
