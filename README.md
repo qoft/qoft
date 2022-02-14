@@ -1,7 +1,7 @@
 ![Header](./header.png)
 
 <h1 align="center">qoft#3333</h1>
-<p align="center">uhhh im starting to learn js but i know python and c#</p>
+<p align="center">ik py, js, c# and learning java</p>
 <a href="https://github.com/Qoft">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Qoft" alt="Profile Views">
