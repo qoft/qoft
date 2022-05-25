@@ -1,7 +1,7 @@
 ![Header](./header.png)
 
 <h1 align="center">qoft#1337</h1>
-<p align="center">ik py, js, c# and learning java</p>
+<p align="center"> Js, Py, C#, C++, Go, Java,  Lua, Rust, C, Elixir, Ts, Batch, Powershell, php, Ruby,Swift, Perl, Kt, SQL, F# </p>
 <a href="https://github.com/Qoft">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Qoft" alt="Profile Views">
