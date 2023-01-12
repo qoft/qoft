@@ -14,7 +14,6 @@
 
 
 <p align="center">
-  <img src="GET FROM https://discord.c99.nl" />
   <br />
   <br />
   <img src="https://github-profile-trophy.vercel.app/?username=Qoft&theme=nord&margin-w=15&margin-h=1&column=6" />
