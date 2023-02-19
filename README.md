@@ -1,6 +1,7 @@
 ![Header](./header.png)
 
-<h1 align="center">qoft#0001</h1>
+<h1 align="center">qfot#0001</h1>
+<p align="center">(yes its supposed to be spelled that way)</p>
 <p align="center"> Js, Py, Go</p>
 <a href="https://github.com/Qoft">
   <p align="center">
