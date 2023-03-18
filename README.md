@@ -1,7 +1,7 @@
 ![Header](./header.png)
 
 <h1 align="center">https://t.me/retiredcriminal</h1>
-<p align="center"> Js, Py, Go</p>
+<p align="center"> Py, Go</p>
 <a href="https://github.com/Qoft">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=qoft&color=blueviolet&&label=so many peopople what!" alt="Profile Views">
