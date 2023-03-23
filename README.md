@@ -10,7 +10,7 @@
 <h4>Notable open-source projects I've worked on:</h4>
 
 - [Vast](https://vast.lol), Is now [open source](https://github.com/1x6/vast-spammer). Was a discord group chat spammer used to spam group chats on users
-- [Dazeer](https://dazeer.xyz), A discord token automation tool.
+- [Dazeer](https://dazeer.xyz), A discord token automation tool with over 500 customers.
 - [HCaptcha-AIless](https://github.com/qoft/Hcaptcha-exploit), A exploit on [Hcaptcha](https://www.hcaptcha.com/) which returned the answer inside the URI
 
 <p align="center">
