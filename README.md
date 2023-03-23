@@ -7,7 +7,7 @@
 
 <!-- Most of my projects are closed source, so im not going to show the source on my github directly.
  -->
-<h4>Notable open-source projects I've worked on:</h4>
+<h4>Notable projects I've worked on:</h4>
 
 - [Vast](https://vast.lol), Is now [open source](https://github.com/1x6/vast-spammer). Was a discord group chat spammer used to spam group chats on users
 - [Dazeer](https://dazeer.xyz), A discord token automation tool with over 500 customers.
