@@ -1,6 +1,6 @@
 ![Header](./header.png)
 
-<h1 align="center">qoft zex</h1>
+<h1 align="center">qoft</h1>
 <h3 align="center">Python and Golang developer</h3>
 
 **Hey! I'm qoft. I'm a 16 year old developer from the US. I mostly make automation tools for APIs and websites, including discord bots.** 
