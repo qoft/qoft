@@ -15,7 +15,7 @@
 - [Dortgen/Dortcap](https://dort.shop), Used to be a automated microsoft account generator with full funcaptcha bypass, and purchasing Xbox gamepass. Now a captcha API
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=qoft&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=qoft&title_color=520a89&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=520a89&hide_title=true&count_private=true" />
 </p>
 
 I do not have anywhere that you can contact me, I am not in any community anymore, any app, or am not planning to come back to any community.
