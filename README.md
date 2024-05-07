@@ -1,7 +1,7 @@
 ![Header](./header.png)
 
 <h1 align="center">qoft</h1>
-<h3 align="center">Python, JS, Rust developer</h3>
+<h3 align="center">Python, JS, Go developer</h3>
 
 **Hey! I'm qoft. I'm a 16 year old developer from the US. I mostly make automation tools for APIs and websites, including discord bots.** 
 
