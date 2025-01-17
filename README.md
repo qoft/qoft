@@ -3,6 +3,8 @@
 <h1 align="center">qoft</h1>
 <h3 align="center">Python, JS, Go developer</h3>
 
+**Inactive due to school & IRL situations. Will probably not return on this alias.**
+
 **Hey! I'm qoft. I'm a 17 year old developer from the US. I mostly make automation tools for APIs and websites, including discord bots.** 
 
 <!-- Most of my projects are closed source, so im not going to show the source on my github directly.
